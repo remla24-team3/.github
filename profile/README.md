@@ -14,7 +14,4 @@ This repository is part of the REMLA 2024 course. It's used for demonstrating th
 - For detailed project setup and guidelines, refer to the [official course materials](https://github.com/proksch/sms1/wiki).
 - Learn about our tools and practices at the [DVC official documentation](https://dvc.org/doc).
 
-### Markdown Tips
-- Enhance your documentation using [GitHub's Markdown guide](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
 Feel free to fork, modify, and use this project as part of the REMLA course!
