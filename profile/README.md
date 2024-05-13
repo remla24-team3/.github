@@ -8,7 +8,6 @@ This repository is part of the REMLA 2024 course. It's used for demonstrating th
 
 ### How to Contribute
 - **Reporting Issues**: Use the Issues section to report problems or suggest improvements.
-- **Submitting Changes**: Create pull requests with your proposed changes. Ensure that your code adheres to the project's standards.
 
 ### Documentation
 - For detailed project setup and guidelines, refer to the [official course materials](https://github.com/proksch/sms1/wiki).
